@@ -1,1 +1,9 @@
-When would you want to create a remote repository rather than keeping all your work local?
+Q. When would you want to create a remote repository rather than keeping all your work local?
+
+A. When you're sharing with someone or collaborating.
+
+Q. Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+A. Because you may be testing changes or not be ready to either show the public or copy onto your working directory.
+
+Q. 
