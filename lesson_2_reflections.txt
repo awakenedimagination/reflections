@@ -6,4 +6,24 @@ Q. How is the staging area different from the working directory and the reposito
 
 A. It's a "temporary link" between the working directory and the repository. It's valuable because it allows you to bring only certain files into the commit.
 
+Q. How can you use the staging area to make sure you have one commit per logical change?
+
+A. You can examine differences between working directory and staging area (with git diff) and also difference between staging area and repo (w/ git diff --staged).
+
+Q. What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+A. When I want to make expiremental changes, or just separate changes so they don't affect main project. It would keep things cleaner and have many uses.
+
+Q. How do the diagrams help you visualize the branch structure?
+
+A. By taking these confusing and abstract concepts and sequencing them into a logical structure that my mind can wrap itself around.
+
+Q. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+A. First of all, it merges the most important code together, and second, it merges the commits together, so you can get history of both, from one.
+
+Q. What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+A. It can make things much faster, and also will help when you can't just call up the other person. Also, it'll give you a heads up as to what to ask them.
+
 Q. 
