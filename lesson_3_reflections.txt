@@ -14,4 +14,10 @@ Q. What is the benefit of having a copy of the last known state of the remote st
 
 A. I could work on it locally, offline.
 
-Q. 
+Q. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+A. Sharing files back and forth by sending zips or working on server. Git & Github is definitely easier, safer, and more efficient.
+
+Q. When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+A. When I'm not sure of the changes, or when they are more experimental. Also, when I don't want to throw a collaborator off. Branches, IMO, are safety nets in a way. They encourage more freely coding and not worrying about "breaking" the code as much.
