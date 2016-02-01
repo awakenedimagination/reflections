@@ -21,3 +21,7 @@ A. Sharing files back and forth by sending zips or working on server. Git & Gith
 Q. When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
 
 A. When I'm not sure of the changes, or when they are more experimental. Also, when I don't want to throw a collaborator off. Branches, IMO, are safety nets in a way. They encourage more freely coding and not worrying about "breaking" the code as much.
+
+Q. How great is this?
+
+A. Super great.
