@@ -10,4 +10,8 @@ Q. Describe the differences between forks, clones, and branches. When would you 
 
 A. A fork is a clone of someone's repository on github servers. A clone is a local clone or a clone of a repository onto your local system. A branch is new label for separate set of commits.
 
+Q. What is the benefit of having a copy of the last known state of the remote stored locally?
+
+A. I could work on it locally, offline.
+
 Q. 
